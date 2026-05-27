@@ -277,7 +277,7 @@
 
 
 /* Services Definitions */
-#define STATS_NAME "services.azzurra.chat"
+#define STATS_NAME "stats.azzurra.chat"
 #define CHANSERV "ChanServ"
 #define NICKSERV "NickServ"
 #define MEMOSERV "MemoServ"
@@ -696,7 +696,7 @@
  * Rather self explanitory. If not specified in T: line,
  * we tell clients to go to "http://<this>"
  */
-#define DEFAULT_PROXY_INFO_URL "www.azzurra.chat"
+#define DEFAULT_PROXY_INFO_URL "www.azzurra.chat/kline/"
 
 /*
  * STAFF_ADDRESS
